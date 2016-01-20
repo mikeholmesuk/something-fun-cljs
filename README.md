@@ -9,7 +9,7 @@ The project is based on a lein template provided by @jarohen. The base project c
 
 To start the project running simply run the following:
 
-        lein run dev
+        lein dev
 
 This will download the project dependencies, start a repl server on port `7888` and a figwheel server on `localhost:3449`. The server can be reached on `localhost:3000`.
 
